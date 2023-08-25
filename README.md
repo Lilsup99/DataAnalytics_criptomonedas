@@ -26,7 +26,7 @@ se realizo a los datos obtenidos en el proceso de ETL, basicamente el esquema de
 * Chainlink
 * XRP
 * Solana
-* Tethe Gold
+* Tether Gold
 
 ## Reporte de Analisis.
 
