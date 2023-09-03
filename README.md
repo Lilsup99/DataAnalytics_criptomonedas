@@ -1,3 +1,4 @@
+https://www.linkedin.com/in/daniel-vielma-10bb42269/
 <h1 align='center'>
   PROYECTO INDIVIDUAL Nº2 
 
